@@ -68,6 +68,8 @@ weight = 4
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
+custom_css = ["css/custom.css"]
+
 
 # favicon
 [params.favicon]
