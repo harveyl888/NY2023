@@ -1,36 +1,37 @@
 ---
 title: "Adventure - Cipher"
+author: ["Detective"]
 date: 2022-12-30T19:59:00+06:00
 image : "images/detective.jpg"
 draft: true
 ---
 
-Use this cipher to decode your symbols and rearrange into a word.  
+This is the last clue.  It's a cipher of all the symbols.  
+Use it to decode the symbols you collected and rearrange into a word.  
 
-{{< fa bath >}} A  
-{{< fa user >}} B  
-{{< fa music >}} C  
-{{< fa plane >}} D  
-{{< fa star >}} E  
-{{< fa heart >}} F  
-{{< fa poo >}} G  
-{{< fa camera-retro >}} H  
-{{< fa hippo >}} I  
-{{< fa face-smile >}} J  
-{{< fa gift >}} K  
-{{< fa umbrella >}} L  
-{{< fa bicycle >}} M  
-{{< fa thumbs-up >}} N  
-{{< fa key >}} O  
-{{< fa truck >}} P  
-{{< fa wand-magic-sparkles >}} Q  
-{{< fa tree >}} R  
-{{< fa snowflake >}} S  
-{{< fa palette >}} T  
-{{< fa car-side >}} U  
-{{< fa rocket >}} V  
-{{< fa dice >}} W  
-{{< fa scissors >}} X  
-{{< fa pizza-slice >}} Y  
-{{< fa guitar >}} Z  
-
+{{< fa bath fw >}} A  
+{{< fa user fw >}} B  
+{{< fa thumbs-up fw >}} C  
+{{< fa plane fw >}} D  
+{{< fa star fw >}} E  
+{{< fa heart fw >}} F  
+{{< fa poo fw >}} G  
+{{< fa camera-retro fw >}} H  
+{{< fa hippo fw >}} I  
+{{< fa face-smile fw >}} J  
+{{< fa gift fw >}} K  
+{{< fa umbrella fw >}} L  
+{{< fa bicycle fw >}} M  
+{{< fa music fw >}} N  
+{{< fa key fw >}} O  
+{{< fa truck fw >}} P  
+{{< fa wand-magic-sparkles fw >}} Q  
+{{< fa tree fw >}} R  
+{{< fa snowflake fw >}} S  
+{{< fa palette fw >}} T  
+{{< fa car-side fw >}} U  
+{{< fa rocket fw >}} V  
+{{< fa dice fw >}} W  
+{{< fa scissors fw >}} X  
+{{< fa pizza-slice fw >}} Y  
+{{< fa guitar fw >}} Z  
