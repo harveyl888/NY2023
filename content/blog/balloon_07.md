@@ -1,0 +1,8 @@
+---
+title: "Balloon 7 - MIDNIGHT"
+date: 2022-12-30T18:07:00+06:00
+image : "images/balloons.jpg"
+draft: true
+---
+
+Placeholder for balloon #7
