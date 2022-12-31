@@ -5,5 +5,4 @@ date: 2022-12-30T18:01:00+06:00
 image : "images/balloons.jpg"
 ---
 
-New Year is a time to reflect and renew.  
-Our first activity is to play Clue.
+The first balloon.  Let's play a game of Clue or What Do You Meme.
