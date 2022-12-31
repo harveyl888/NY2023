@@ -3,7 +3,6 @@ title: "Detective Adventure"
 author: ["Detective"]
 date: 2022-12-30T19:01:00+06:00
 image : "images/detective.jpg"
-draft: true
 ---
 
 Welcome to the detective adventure.

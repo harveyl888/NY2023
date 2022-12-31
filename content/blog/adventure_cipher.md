@@ -3,7 +3,6 @@ title: "Adventure - Cipher"
 author: ["Detective"]
 date: 2022-12-30T19:59:00+06:00
 image : "images/detective.jpg"
-draft: true
 ---
 
 This is the last clue.  It's a cipher of all the symbols.  

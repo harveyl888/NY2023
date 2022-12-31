@@ -3,7 +3,6 @@ title: "Adventure - Clue 7"
 author: ["Detective"]
 date: 2022-12-30T19:17:00+06:00
 image : "images/detective.jpg"
-draft: true
 ---
 
 **Congratulations!**  You've found the seventh clue.
