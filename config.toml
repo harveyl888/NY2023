@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://hl-ny2023.netlify.app/"
 languageCode = "en-us"
 title = "New Year 2023"
 theme = "twentytwenty"
